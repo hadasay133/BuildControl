@@ -1,0 +1,37 @@
+{
+
+  {
+    "Users": [
+      {
+        "Id": 1,
+        "UserName": "admin",
+        "FamilyName": "Manager",
+        "UserType": "1",
+        "Password": "Admin1234"
+      },
+      {
+        "Id": 2,
+        "UserName": "david",
+        "FamilyName": "Levi",
+        "UserType": "2",
+        "Password": "UserPass1"
+      },
+      {
+        "Id": 3,
+        "UserName": "sara",
+        "FamilyName": "Cohen",
+        "UserType": "2",
+        "Password": "UserPass2"
+      },
+      {
+        "Id": 4,
+        "UserName": "yossi",
+        "FamilyName": "Peretz",
+        "UserType": "2",
+        "Password": "UserPass3"
+      }
+    ]
+  }
+
+
+}
